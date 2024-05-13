@@ -1,0 +1,9 @@
+imageio
+pyvista[all]
+numpy
+pyvista
+networkx
+scipy
+scikit-learn
+open3d
+coppeliasim_zmqremoteapi_client
